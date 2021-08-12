@@ -6,7 +6,7 @@
     "dev": "next dev",
     "build": "next build",
     "start": "next start",
-    "lint": "next lint",
+    "lint": "next lint --dir src",
     "prettier": "prettier --ignore-path .gitignore \"**/*.+(js|ts|json|tsx|css)\"",
     "format": "yarn prettier --write",
     "check-format": "yarn prettier --list-different",

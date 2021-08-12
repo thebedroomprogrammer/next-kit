@@ -1,8 +1,8 @@
 {
- "./src/*.+(js|ts|tsx|css)":[
+ "./src/**/*.+(js|ts|tsx)":[
      "eslint"
  ],
- "./src/*.+(js|ts|json|tsx|css)":[
+ "./src/**/*.+(js|ts|json|tsx)":[
      "prettier --write",
  ]
 }
