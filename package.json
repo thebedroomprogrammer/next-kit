@@ -1,5 +1,5 @@
 {
-  "name": "comet",
+  "name": "nextkit",
   "version": "0.1.0",
   "private": true,
   "scripts": {
@@ -64,5 +64,5 @@
       "path": "./node_modules/cz-conventional-changelog"
     }
   },
-  "license": "UNLICENSED"
+  "license": "MIT"
 }
