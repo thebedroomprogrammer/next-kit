@@ -1,4 +1,3 @@
-/* eslint-disable */
 module.exports = {
   roots: ['<rootDir>/src'],
   displayName: 'comet',
